@@ -102,9 +102,7 @@
 	<nav class="navbar navbar-inverse"
 		style="border-radius: 0; padding: 10px;">
 		<ul class="nav nav-pills pull-right">
-			<li class="active"><a href="#">Home</a></li>
-			<li><a href="#">Profile</a></li>
-			<li><a href="#">Messages</a></li>
+			<li class="active"><a href="login.php">Login</a></li>
 		</ul>
 
 	</nav>
