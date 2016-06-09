@@ -114,28 +114,25 @@
 		<div class="row">
 			<div class="col-sm-6 col-md-4">
 				<div class="thumbnail">
-					<img src="images/johnwayne.jpg" alt="...">
+					<img src="images/eventos.jpg" alt="...">
 					<div class="caption">
-						<h3>John Wayne</h3>
-						<p>Membros: Fabio Figueiredo - vocal Rogerio Torres - guitarra/voz
-							Junior Dias - guitarra Denis Dallago - baixo/voz Edu Garcia -
-							bateria</p>
+						<h3>Eventos</h3>
+						<p>Shows, apresentações, workshops, oficinas, aulas, dentre outras atividades
+						relacionadas a música de qualidade.</p>
 						<p>
-							<a href="#" class="btn btn-primary" role="button">Ver</a>
+							<a href="#" class="btn btn-primary" role="button">Paticipar</a>
 						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-4">
 				<div class="thumbnail">
-					<img src="images/triviumtres.jpg" width="100%" alt="...">
+					<img src="images/ssa.jpg" width="100%" alt="...">
 					<div class="caption">
-						<h3>Trivium</h3>
-						<p>Membros: Fabio Figueiredo - vocal Rogerio Torres - guitarra/voz
-							Junior Dias - guitarra Denis Dallago - baixo/voz Edu Garcia -
-							bateria</p>
+						<h3>Notícias</h3>
+						<p>Encontre aqui tudo relacionado a bandas e músicos do cenário local.</p>
 						<p>
-							<a href="#" class="btn btn-primary" role="button">Ver</a>
+							<a href="#" class="btn btn-primary" role="button">Conhecer</a>
 
 						</p>
 					</div>
@@ -143,15 +140,12 @@
 			</div>
 			<div class="col-sm-6 col-md-4">
 				<div class="thumbnail">
-					<img src="images/deadfishshow.jpg" alt="...">
+					<img src="images/estudio.jpg" alt="...">
 					<div class="caption">
-						<h3>Dead Fish</h3>
-						<p>Rodrigo Lima - Vocal (desde 1991) Alyand - Baixo, backing
-							vocals (desde 1996) Marcos Melloni - Bateria (desde 2009,
-							substituiu N√¥) Ric Mastria - Guitarra (desde 2013, substituiu
-							Phil)</p>
+						<h3>Sua Banda</h3>
+						<p>Bandas à procura de músicos e vice-versa.</p>
 						<p>
-							<a href="#" class="btn btn-primary" role="button">Ver</a>
+							<a href="#" class="btn btn-primary" role="button">Tocar!</a>
 						</p>
 					</div>
 				</div>
